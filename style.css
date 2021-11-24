@@ -1,0 +1,10 @@
+img {
+    max-height: 80px;
+    max-width: 80px;
+}
+.col-md-4 {
+    max-width: 100px;
+}
+.card-body {
+    width: 1300px;
+}
